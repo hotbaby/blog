@@ -1,5 +1,5 @@
 ---
-title:Lisp
+title: Lisp
 date: 2017-06-01 22:21:04
 tags: [Lisp]
 ---
