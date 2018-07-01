@@ -1,6 +1,6 @@
 ---
 title: Python Itertools
-date: 2018-07-01 21:57:10
+date: 2017-07-01 21:57:10
 tags: [Python]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Nginx autoindex乱码
-date: 2018-05-09 22:13:20
+date: 2017-05-09 22:13:20
 tags: [Nginx]
 ---
 

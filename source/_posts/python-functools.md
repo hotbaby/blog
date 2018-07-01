@@ -1,6 +1,6 @@
 ---
 title: Python Functools
-date: 2018-03-29 21:53:49
+date: 2017-03-29 21:53:49
 tags: [Python]
 ---
 

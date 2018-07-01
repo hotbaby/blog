@@ -1,6 +1,6 @@
 ---
 title: Python WSGI
-date: 2018-05-17 22:17:37
+date: 2017-05-17 22:17:37
 tags: [Python, WSGI]
 ---
 
