@@ -1,2 +1,2 @@
-Mengyangyang's Blog Editor
-=========================
+Mengyangyang's Blog
+===================
