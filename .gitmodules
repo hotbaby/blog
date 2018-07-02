@@ -1,3 +1,6 @@
 [submodule "themes/free2mind"]
 	path = themes/free2mind
 	url = https://github.com/rudy-yuan/free2mind
+[submodule "themes/freemind"]
+	path = themes/freemind
+	url = https://github.com/wzpan/hexo-theme-freemind.git
