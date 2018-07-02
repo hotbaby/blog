@@ -3,6 +3,7 @@ title: Django数据库路由
 date: 2017-05-17 22:19:28
 tags: [Django, Python]
 toc: true
+comments: true
 ---
 
 django ORM数据模型配置数据库．

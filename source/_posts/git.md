@@ -3,6 +3,7 @@ title: Git
 date: 2017-04-19 22:06:23
 tags: [Git]
 toc: true
+comments: true
 ---
 
 Git is a free and open source distribute version control system designed to handle evertything from small to very large project wit speed and efficiency.

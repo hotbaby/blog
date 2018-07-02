@@ -3,6 +3,7 @@ title: 安装Node.js
 date: 2017-10-28
 tags: [Node.js]
 toc: true
+comments: true
 ---
 
 ### Linux

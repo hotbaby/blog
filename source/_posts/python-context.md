@@ -3,6 +3,7 @@ title: Python上下文管理器
 date: 2017-07-09 22:26:25
 tags: [Python]
 toc: true
+comments: true
 ---
 
 上下管理器是一个对象，定义了执行`with`语句时需要创建的上下文。context manager的`__enter__()`和`__exit__()`方法分别在进入、退出`with`语句时被调用。

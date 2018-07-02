@@ -3,6 +3,7 @@ title: Python描述符
 date: 2017-07-10 22:28:07
 tags: [Python]
 toc: true
+comments: true
 ---
 
 如果一个对象定义了以下任意方法，这个对象就是一个描述符。给描述符下个定义，描述符就是绑定了行为属性的对象。

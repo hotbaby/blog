@@ -3,6 +3,7 @@ title: Python元类
 date: 2017-07-18 22:29:23
 tags: [Python]
 toc: true
+comments: true
 ---
 
 *[Metaclasses] are deeper magic than 99% of users should ever worry about. If you wonder whether you need them, you don’t (the people who actually need them know with certainty that they need them, and don’t need an explanation about why).* The Python core developer Time Peters said.

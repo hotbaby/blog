@@ -3,6 +3,7 @@ title: 黑客伦理
 date: 2017-04-28 22:09:50
 tags: [Hacker]
 toc: true
+comments: true
 ---
 
 Hacker Ethic

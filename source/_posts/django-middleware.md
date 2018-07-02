@@ -3,6 +3,7 @@ title: Django中间件
 date: 2017-03-30 21:59:10
 tags: [Django, Python]
 toc: true
+comments: true
 ---
 
 中间件是django处理request/response钩子的框架。它是一个用来修改输入、输出的轻量级的插件系统。 从另外角度上讲，中间件也是一种特殊的“装饰器”，装饰所有的视图函数。

@@ -3,6 +3,7 @@ title: Nginx autoindex乱码
 date: 2017-05-09 22:13:20
 tags: [Nginx]
 toc: true
+comments: true
 ---
 
 使用nginx_autoindex_moudle检索本地文件时，如果文件名字包含中文，则会出现乱码.

@@ -3,6 +3,7 @@ title: Python PyPI
 date: 2017-06-08 22:22:06
 tags: [Python, PyPI]
 toc: true
+comments: true
 ---
 
 PyPI(Python Package Index)是Python软件仓库。

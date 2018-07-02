@@ -3,6 +3,7 @@ title: MacOS安装PIL
 date: 2017-12-04
 tags: [MacOS]
 toc: true
+comments: true
 ---
 
 MacOS安装PIL库

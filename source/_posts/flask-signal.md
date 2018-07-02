@@ -3,6 +3,7 @@ title: Flask信号
 date: 2017-05-14 22:15:46
 tags: [Python, Flask]
 toc: true
+comments: true
 ---
 
 Flask signals 默认没有自己实现signal，而是使用blink进行信号的定义，连接，分发。
