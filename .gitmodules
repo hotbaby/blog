@@ -7,3 +7,6 @@
 [submodule "themes/hipaper"]
 	path = themes/hipaper
 	url = https://github.com/iTimeTraveler/hexo-theme-hipaper.git
+[submodule "themes/hipaper2"]
+	path = themes/hipaper2
+	url = git@github.com:hotbaby/hexo-theme-hipaper.git
