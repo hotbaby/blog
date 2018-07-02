@@ -1,5 +1,5 @@
 ---
-title: SQL
+title: sql
 date: 2017-12-01
 tags: SQL
 toc: true
