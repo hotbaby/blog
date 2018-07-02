@@ -22,7 +22,7 @@ OAuth客户端使用一个访问令牌(access token)来访问受保护的资源�
 
 ## Protocol Flow
 
-[![Abstract Protocol Flow](https://hotbaby.org/images/1500477626596.png)](https://hotbaby.org/images/1500477626596.png)Abstract Protocol Flow
+![](http://processon.com/chart_image/59633488e4b0c2773f86cf4c.png)
 
 ## Authorization Grant
 
@@ -76,7 +76,7 @@ OAuth定义了两种客户端类型
 
 认证码获取流程:
 
-[![Authorization Code Flow](https://hotbaby.org/images/1500478492502.png)](https://hotbaby.org/images/1500478492502.png)Authorization Code Flow
+![](http://processon.com/chart_image/5966de55e4b09c8a29265aaf.png)
 
 ### Authorization Request
 
