@@ -1,7 +1,8 @@
 ---
 title: Django调试
 date: 2017-03-30 22:01:27
-tags: [Django]
+tags: [Django, Python]
+toc: true
 ---
 
 django默认情况会将所有的错误信息以HTML形式返回给前端，这样导致在运行nose的单元测试用例出现错误时，无法看到详细的错误栈帧信息，给程序的debug带来一定的困扰。

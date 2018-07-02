@@ -2,6 +2,7 @@
 title: Python Itertools
 date: 2017-07-01 21:57:10
 tags: [Python]
+toc: true
 ---
 
 #### itertools.imap()

@@ -2,6 +2,7 @@
 title: OAuth
 date: 2017-07-19 22:30:45
 tags: [OAuth]
+toc: true
 ---
 
 OAuth客户端使用一个访问令牌(access token)来访问受保护的资源，其中访问令牌包含了特殊作用域(specific scope), 生命周期，和其他的访问属性。访问令牌由授权服务器在资源拥有者授权之后颁发(issue)。客户端通过访问令牌资源服务器上受保护资源。

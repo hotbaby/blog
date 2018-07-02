@@ -1,7 +1,8 @@
 ---
 title: Django QuerySet
 date: 2017-10-23 16:41:04
-tags: Django
+tags: [Python, Django]
+toc: true
 ---
 
 ### 字段查找过滤

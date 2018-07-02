@@ -1,7 +1,8 @@
 ---
 title: Django异常处理
 date: 2017-12-06 16:41:04
-tags: Django
+tags: [Python, Django]
+toc: true
 ---
 
 基于django技术栈实现的WEB应用，生产环境中都会关闭DEBUG选项，Django默认只会输出很少的错误信息，不利于开发人员快速定位、解决问题。为了解决此问题，考虑定制Django默认的错误处理，还原错误现场，配合错误日志、邮件报警快速发现、解决BUG。

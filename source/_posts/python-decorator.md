@@ -1,7 +1,8 @@
 ---
 title: Python装饰器
 date: 2017-03-28 19:29:29
-tags: [Python]
+tags: [Python, Decorator]
+toc: true
 ---
 
 装饰器是一种设计模型（结构型模式），可以动态给一个对象添加一些额外的职责，而不用修改该对象的任何code。

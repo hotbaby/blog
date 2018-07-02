@@ -2,6 +2,7 @@
 title: Python PEP
 date: 2017-03-18 19:25:44
 tags: [Python, PEP]
+toc: true
 ---
 
 PEP是Python Enehencement Proposal的缩写．每篇PEP都是一个设计文档，或者描述Python社区信息，或者描述Python的新特性等．PEP提供了特性的技术规范和这个特性的来源.

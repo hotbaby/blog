@@ -1,7 +1,8 @@
 ---
 title: MacOS安装PIL
 date: 2017-12-04
-tags: 
+tags: [MacOS]
+toc: true
 ---
 
 MacOS安装PIL库
