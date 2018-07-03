@@ -2,6 +2,8 @@
 title: Jenkins+Gitlab持续集成
 date: 2018-05-11 16:42:28
 tags: [Jekins, Gitlab]
+comments: true
+toc: true
 ---
 
 ## Install Jenkins
