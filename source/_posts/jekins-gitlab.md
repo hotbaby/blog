@@ -51,7 +51,7 @@ wget https://prodjenkinsreleases.blob.core.windows.net/debian/jenkins_2.121_all.
 
 更新`/etc/init.d/jenkins`PATH变量
 
-```
+```properties
 PATH=/bin:/usr/bin:/sbin:/usr/sbin:/opt/jdk/bin/
 ```
 
