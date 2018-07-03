@@ -180,4 +180,4 @@ Solution:
 
 - [java jdk8](http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz?AuthParam=1526090409_eeb74c2f68fe8539ce3cb2608695d850)
 - [jenkins debian package](https://pkg.jenkins.io/debian/)
-- [配置Jenkins+Gitlab
+- [配置Jenkins+Gitlab](https://blog.csdn.net/ruangong1203/article/details/73065410)
