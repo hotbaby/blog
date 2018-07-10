@@ -25,6 +25,6 @@ The Three Laws of Robotics
 2. 机器人必须服从人的指令，当命令与第一定律冲突时例外
 3. 机器人在不违反第一、第二定律的情况下要尽可能保护自己的生存
 
-## 参考
+参考：
 
 * [Three Laws of Robotics Wikipedia](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
