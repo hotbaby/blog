@@ -3,7 +3,7 @@ title: 终极算法
 comments: true
 toc: true
 date: 2018-07-16 10:37:52
-tags: [机器学习, 算法]
+tags: [机器学习, 算法, 读书]
 photos: https://share-static.oss-cn-hangzhou.aliyuncs.com/mengyangyang.org/pictures/%E7%BB%88%E6%9E%81%E7%AE%97%E6%B3%95.jpg
 ---
 
