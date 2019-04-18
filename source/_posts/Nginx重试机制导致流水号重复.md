@@ -172,10 +172,14 @@ ngx_http_upstream_process_header(ngx_http_request_t *r, ngx_http_upstream_t *u)
 
 ### 延伸
 
-多分析日志，从日志寻找解决问题的线索
+从这个BUG想到的：
+
+* 不要急于下结论，首先要排除自己业务出错的可能性，再去与其他业务部门沟通、分析问题的原因，同时也不能完全寄希望于别人身上，他人只负责提供意见或灵感辅助解决问题，自己要持续跟踪、分析，并最终解决问你题。
+* 不要局限于一个节点，了解整个业务端流程、网络拓扑，逐层拆解，分析可能出现问题节点。
+* 分析日志，从日志寻找解决问题的线索。
+* 查看开源软件文档、代码，从中分析导致问题的根本原因，找到解决问题的最终解决方案。
 
 ### 参考
 
 - [Nginx源代码](<https://github.com/nginx/nginx>)
 - [Nginx document proxy module](<http://nginx.org/en/docs/http/ngx_http_proxy_module.html>)
-
