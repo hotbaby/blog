@@ -6,3 +6,4 @@ node_modules/
 public/
 .deploy*/update.sh
 .deploy_git
+update.sh
