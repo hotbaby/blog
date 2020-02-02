@@ -8,4 +8,4 @@ type: about
 
  Email: [mengyy_linux@163.com](mailto:mengyy_linux@163.com)
 
- GitHub: [@Mengyy](https://github.com/hotbaby)
+ GitHub: [@hotbaby](https://github.com/hotbaby)
